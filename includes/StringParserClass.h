@@ -55,4 +55,7 @@ namespace KP_StringParserClass{
 		bool	areTagsSet;
 	};
 }
+
+
+
 #endif
